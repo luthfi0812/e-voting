@@ -1,0 +1,14 @@
+[
+    {
+        "id": "PM001",
+        "nama": "Supri",
+        "jurusan": "Sastra hukum",
+        "sudah_memilih": true
+    },
+    {
+        "id": "PM002",
+        "nama": "Ardi",
+        "jurusan": "Sastra ELektro",
+        "sudah_memilih": false
+    }
+]
